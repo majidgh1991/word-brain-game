@@ -6,17 +6,18 @@ Output:
     All possible word tuples which can be the answer to the puzzle.
 
 Sample Input:
-	puzzle:   L A B B
-                  R L T I
-                  E C I S
-                  M S C U
-                  
-                  ----- ------- ----
+	puzzle:   
+		L A B B
+		R L T I
+		E C I S
+		M S C U
 
-        Input to the program:
-                 labbrltiecismscu,5,7,4
+		----- ------- ----
 
-        Output:
+	Input to the program:
+		labbrltiecismscu,5,7,4
+
+	Output:
                 ['smell', 'biscuit', 'crab']
 		['lrecl', 'biscuit', 'bams']
 		['succi', 'stibble', 'marl']
